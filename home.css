@@ -1,0 +1,26 @@
+.os-title{
+    /* color: red; */
+    /* background-color: rgba(255, 255, 0, 0.598); */
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.os-question{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.os-answer{
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.os-answer li{
+    list-style: none;
+}
+
+
+.yellow-box{
+    background-color: rgba(255, 255, 0, 0.598);
+    color: red;
+}

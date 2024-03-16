@@ -1,0 +1,16 @@
+.signup-form input{
+    width: 300px;
+}
+
+.head{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+.btn{
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    width: 100px;
+}

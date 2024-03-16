@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cmpHead,.menu{
+    color: green;
+    background-color: #432616;
+}
+
+.cmpName-text{
+    font-size: 25px;
+    font-family: "Arapey", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.menuItems a{
+    margin-right: 20px;
+}
+
+a{
+   text-decoration: none;    
+   color: green;
+}
+
+.footer{
+    bottom: 10px;
+    background-color: white;
+}
+
+.teamName{
+    font-size: 15px;
+}
+
+.contact-links{
+    height: 0px;
+}
+
+.teamName-text{
+    font-weight: bold;
+}
+
+
